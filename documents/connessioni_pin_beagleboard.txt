@@ -1,0 +1,10 @@
+P9_2	Ground
+P9_3	3.3V (out)
+P8_45	Gol Rosso
+P8_46	Super Gol Rosso
+P8_43	Subottoni - Rosso
+P8_44	Subottoni + Rosso
+P8_41	Gol Blu
+P8_42	Super Gol Blu
+P8_39	Subottoni - Blu
+P8_40	Subottoni + Blu
